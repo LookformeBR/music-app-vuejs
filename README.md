@@ -1,4 +1,8 @@
-# music-app
+# Music App com Vuejs
+
+## Um pequeno projeto de app de música com vuejs
+
+
 
 ## Project setup
 ```
