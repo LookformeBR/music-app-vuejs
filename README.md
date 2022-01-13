@@ -1,7 +1,8 @@
 # Music App com Vuejs
 
-## Um pequeno projeto de app de música com vuejs
+## Aplicativo de musica com vuejs
 
+Uma app de música desenvolvido com vuejs, neste projeto foi necessário aprender otimas tecnicas de javascript para lidar com aúdio. Neste aplicativo  é possível Pausar dar play, pular ou voltar a música.
 
 
 ## Project setup
